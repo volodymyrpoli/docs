@@ -10,5 +10,3 @@
 
 ## Group 1
 
-* [Page in group](group-1/page-in-group.md)
-
