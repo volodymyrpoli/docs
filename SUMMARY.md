@@ -8,3 +8,7 @@
 * [Page](page.md)
 * [Page 2](page-2.md)
 
+## Group 1
+
+* [Page in group](group-1/page-in-group.md)
+
