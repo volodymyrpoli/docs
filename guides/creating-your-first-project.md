@@ -8,6 +8,8 @@
 
 Projects are containers for task lists. Think of them as a library for everything your team needs to get done to complete or ship a project.
 
+![](../.gitbook/assets/blob\_https\_\_\_design.artar.es\_cc589c84-2079-47bf-ba76-02918bd623d6.jpeg)
+
 ## Creating a project
 
 Hit the big '+' button in your sidebar and select 'New Project' from the menu that pops up. Give your project a name, and you're good to go!
